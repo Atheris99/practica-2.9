@@ -1,0 +1,42 @@
+span.comicsans {
+    font-family: "Comic Sans", cursive;
+    color: red;
+    font-size: 3rem;
+}
+
+h1 {
+    text-align: right;
+    font-family: sans-serif;
+    font-size: 3rem;
+}
+
+body {
+    background-color: rgb(255, 209, 255);
+    text-align: justify;
+    font-family: sans-serif;
+}
+
+h2 {
+    font-family: monospace;
+    font-size: 3rem;
+    font-variant: small-caps;
+}
+
+span.blanco {
+    background-color: white;
+    color: green;
+    font-style: oblique;
+}
+
+strong {
+    color: rgb(255, 140, 45);
+}
+
+span.naranja {
+    color: orange;
+}
+
+p {
+    line-height: 200%;
+    text-indent: 3em;
+}
